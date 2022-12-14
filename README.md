@@ -9,3 +9,8 @@ Data_Preparation_Functions.py cointains fucntions used in Data_Preparation_1.py
 
 Data_Preparation_2.py contains code to construct a matrix of the prepared data for every play and create a testing and training set that can be used to perform machine learning tasks.
 
+# ML utility functions
+Utils.py contains functions used for training and testing the machine learning model.
+
+# Model
+Model.py contains the code to execute the specified machine learning models.
