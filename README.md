@@ -13,4 +13,4 @@ Data_Preparation_2.py contains code to construct a matrix of the prepared data f
 Utils.py contains functions used for training and testing the machine learning model.
 
 # Model
-Model.py contains the code to execute the specified machine learning models.
+Model.py contains the code to train and evaluate the specified machine learning model.
